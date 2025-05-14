@@ -110,3 +110,5 @@ const VerificationStatus = () => {
     </div>
   );
 };
+
+export default VerificationStatus
