@@ -118,3 +118,5 @@ const VerificationPage = () => {
     </div>
   );
 };
+
+export default VerificationPage
